@@ -29,9 +29,3 @@
 | <a href="https://github.com/fluid-cloudnative/fluid"><img src="https://github.com/fluid-cloudnative.png" width="16" /></a> **fluid-cloudnative/fluid** | Mooncake CacheRuntime sample, client-less cache topology e2e, runtime config generation, tiered-store quota fixes |
 | <a href="https://github.com/vllm-project/aibrix"><img src="https://github.com/vllm-project.png" width="16" /></a> **vllm-project/aibrix** | ModelAdapter webhook validation, StormService scoping & mode inference, ModelRouter HTTPRoute recovery |
 | <a href="https://github.com/volcano-sh/kthena"><img src="https://github.com/volcano-sh.png" width="16" /></a> **volcano-sh/kthena** | Router pod-store and in-flight accounting fixes |
-
-### 📊 Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=btxu-db&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
-</p>
