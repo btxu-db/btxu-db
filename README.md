@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Primarily_writing-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square" />
@@ -31,5 +34,4 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=btxu-db&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btxu-db&layout=compact&hide_border=true&theme=transparent" />
 </p>
