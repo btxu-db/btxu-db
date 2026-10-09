@@ -33,7 +33,3 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=btxu-db&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btxu-db&layout=compact&hide_border=true&theme=transparent" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=btxu-db&hide_border=true&bg_color=00000000&color=7d8590&line=2f81f7&point=2f81f7" />
-</p>
